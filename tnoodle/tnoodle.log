@@ -1,0 +1,10 @@
+2023-07-13 14:00:27,866 INFO [main] o.w.t.s.w.s.MainLauncher [MainLauncher.kt:44] Detected os: Linux
+2023-07-13 14:00:27,867 INFO [main] o.w.t.s.w.s.MainLauncher [MainLauncher.kt:50] needsReExecing: false
+2023-07-13 14:00:29,781 INFO [main] d.s.SystemTray [SystemTray.java:797] Successfully loaded
+2023-07-13 14:00:29,787 WARN [main] d.s.SystemTray [MenuItem.java:465] Please disable tooltips, as they are not consistent across all platforms and tray types.
+2023-07-13 14:00:29,839 INFO [main] Application [ApplicationEngineEnvironmentReloading.kt:146] Autoreload is disabled because the development mode is off.
+2023-07-13 14:00:30,010 INFO [main] Application [BaseApplicationEngine.kt:52] Responding at http://0.0.0.0:2014
+2023-07-13 14:00:30,010 INFO [main] Application [BaseApplicationEngine.kt:59] Application started in 0.175 seconds.
+2023-07-13 14:00:30,075 INFO [main] o.w.t.s.w.WebscramblesServer [WebscramblesServer.kt:126] TNoodle-WCA-1.1.2 started
+2023-07-13 14:00:30,111 ERROR [main] o.w.t.s.w.s.OfflineJarUtils [OfflineJarUtils.kt:32] Sorry, it appears the Desktop api is supported on your platform, but the BROWSE action is not.
+2023-07-13 14:22:41,152 INFO [SystemTrayEventDispatch-1] o.w.t.s.w.s.OfflineJarUtils [OfflineJarUtils.kt:66] Exit initiated from tray icon
